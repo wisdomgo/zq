@@ -1,7 +1,0 @@
-/msk/.idea
-/msk/build
-/msk/dist
-*.txt
-*.spec
-*.c
-*.exe
